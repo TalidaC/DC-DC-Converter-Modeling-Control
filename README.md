@@ -1,0 +1,1 @@
+A power electronics project focused on modeling, simulating, and controlling a DC-DC converter. Built in MATLAB/Simulink with both ideal and realistic (non-ideal) component behavior using Simscape. Features PWM generation, ripple analysis, and closed-loop control design with Guillemin-Truxal method.
